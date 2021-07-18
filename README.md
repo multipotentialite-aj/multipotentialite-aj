@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @multipotentialite-aj.
-- 👀 I’m interested in editorial design, UI/UX, front end development.
+- 👀 I’m interested in editorial, UI/UX, and web design.
 - 🌱 I’m currently learning front end development.
-- 💞️ I’m looking to collaborate on editorial & UI design.
+- 💞️ I’m looking to collaborate on editorial & web design.
 - 📫 How to reach me ...
 
 <!---
