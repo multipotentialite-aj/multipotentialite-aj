@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @multipotentialite-aj.
+- 👋 Hi, I’m Annie.
 - 👀 I’m interested in editorial, UI/UX, and web design.
 - 🌱 I’m currently learning front end development & React.js.
 - 💞️ I’m looking to collaborate on editorial & web design.
