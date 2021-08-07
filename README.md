@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Annie.
 - 👀 I’m interested in editorial, UI/UX, and web design.
-- 🌱 I’m currently learning front end development & React.js.
+- 🌱 I’m currently learning UX & React.js.
 - 💞️ I’m looking to collaborate on editorial & web design.
 - 📫 How to reach me ...
 
