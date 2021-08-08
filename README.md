@@ -2,7 +2,6 @@
 - 👀 I’m interested in editorial, UI/UX, and web design.
 - 🌱 I’m currently learning UX & React.js.
 - 💞️ I’m looking to collaborate on editorial & web design.
-- 📫 How to reach me ...
 
 <!---
 multipotentialite-aj/multipotentialite-aj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
