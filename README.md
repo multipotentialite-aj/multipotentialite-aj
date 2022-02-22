@@ -1,7 +1,7 @@
 - 👩🏻‍💻 Hi, I’m Annie.
 - 🇨🇦 I'm a visual designer based in Ontario, Canada.
 - ☕️ I’m skilled in editorial design, UI, and front-end development.
-- 📖 I’m currently learning React.js.
+- 📖 I’m currently learning React.js and Web3.
 - 📭 Open to freelance opportunities in editorial, UI, & web design.
 
 <!---
